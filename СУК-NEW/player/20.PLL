@@ -1,0 +1,5 @@
+insert into PLAYLIST  (ID_FRAME, NAME_FILE, NUM, VOL, DATE1 )VALUES (19, "Дима Билан - Number One Fan(1).mp3", 3, 100, "14.11.2008")
+insert into PLAYLIST  (ID_FRAME, NAME_FILE, NUM, VOL, DATE1 )VALUES (19, "Rocky (Рокки)-2.avi", 2, 100, "14.11.2008")
+insert into PLAYLIST  (ID_FRAME, NAME_FILE, NUM, VOL, DATE1 )VALUES (19, "Симпсоны 6.avi", 1, 100, "14.11.2008")
+insert into PLAYLIST  (ID_FRAME, NAME_FILE, NUM, VOL, DATE1 )VALUES (21, "20_21.str", 1, 100, "14.11.2008")
+insert into PLAYLIST  (ID_FRAME, NAME_FILE, NUM, VOL, DATE1 )VALUES (22, "20_22.str", 1, 100, "14.11.2008")

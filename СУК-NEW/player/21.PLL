@@ -1,0 +1,1 @@
+insert into PLAYLIST  (ID_FRAME, NAME_FILE, NUM, VOL, DATE1 )VALUES (18, "папе.doc", 1, 100, "02.11.2008")
